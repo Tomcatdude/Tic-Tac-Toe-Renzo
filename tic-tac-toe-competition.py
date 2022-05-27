@@ -7,7 +7,7 @@ player2 = 'NULL'
 
 def main():
 
-    stillPlaying = True
+    stillPlaying = Tru
     while stillPlaying:
         mainMenu()
         clrBoard()
